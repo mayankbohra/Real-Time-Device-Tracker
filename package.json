@@ -1,0 +1,17 @@
+{
+  "name": "real-time-device-tracker",
+  "version": "1.0.0",
+  "description": "A real-time device tracking app using Node.js, Express, and Socket.io for two-way communication.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "socket.io": "^4.8.0"
+  }
+}
